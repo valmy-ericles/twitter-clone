@@ -27,37 +27,26 @@ function SideBar() {
             elements={[
               <FollowSuggestions
                 name="Platão Henrique"
-                nickname="@josehenrique"
+                nickname="@josehenrique_fake"
               />,
               <FollowSuggestions
                 name="Pitágoras Pereira"
-                nickname="@pitágoras_math"
+                nickname="@pitágoras_math_fake"
               />,
               <FollowSuggestions
                 name="Hermanoteu Lima"
-                nickname="@hermanoteu_lima"
+                nickname="@hermanoteu_lima_fake"
               />,
             ]}
           />
 
           <List
-            title="Talvez você curta"
-            elements={[
-              <FollowSuggestions name="Beatriz Lima" nickname="@beatrizlima" />,
-            ]}
-          />
-
-          <List
-            title="Talvez você curta"
+            title="O que estão Acontecendo"
             elements={[<News />, <News />, <News />]}
           />
           <List
             title="Talvez você curta"
-            elements={[<News />, <News />, <News />]}
-          />
-          <List
-            title="Talvez você curta"
-            elements={[<News />, <News />, <News />]}
+            elements={[<News />, <News />, <News />, <News />, <News />]}
           />
           <List
             title="Talvez você curta"

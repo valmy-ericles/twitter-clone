@@ -27,7 +27,7 @@ function ProfilePage() {
         <h2>@valmy_machado</h2>
 
         <p>
-          Full Stack Developer at <a href="https://blackflag.com">@blackflag</a>
+          Full Stack Developer | Ruby | React |
         </p>
 
         <ul>
