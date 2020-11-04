@@ -11,6 +11,8 @@ import {
   EditButton
 } from './styles';
 
+import Feed from '../Feed';
+
 function ProfilePage() {
   return (
     <Container>
@@ -49,6 +51,8 @@ function ProfilePage() {
           </span>
         </Followage>
       </ProfileData>
+      
+      <Feed/>
     </Container>
   )
 }
