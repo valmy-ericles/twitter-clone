@@ -27,15 +27,15 @@ function SideBar() {
             elements={[
               <FollowSuggestions
                 name="Platão Henrique"
-                nickname="@josehenrique_fake"
+                nickname="@josehenrique"
               />,
               <FollowSuggestions
                 name="Pitágoras Pereira"
-                nickname="@pitágoras_math_fake"
+                nickname="@pitágoras_math"
               />,
               <FollowSuggestions
                 name="Hermanoteu Lima"
-                nickname="@hermanoteu_lima_fake"
+                nickname="@hermanoteu_lima"
               />,
             ]}
           />
